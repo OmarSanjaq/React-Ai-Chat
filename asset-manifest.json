@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-Ai-Chat/static/css/main.821c24fd.css",
+    "main.js": "/React-Ai-Chat/static/js/main.e51f0502.js",
+    "static/js/453.feba9da3.chunk.js": "/React-Ai-Chat/static/js/453.feba9da3.chunk.js",
+    "static/media/user_icon.png": "/React-Ai-Chat/static/media/user_icon.8819483ee7d653116bf2.png",
+    "static/media/gallery_icon.png": "/React-Ai-Chat/static/media/gallery_icon.1da1416be560b7741007.png",
+    "static/media/logo.svg": "/React-Ai-Chat/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-Ai-Chat/index.html",
+    "main.821c24fd.css.map": "/React-Ai-Chat/static/css/main.821c24fd.css.map",
+    "main.e51f0502.js.map": "/React-Ai-Chat/static/js/main.e51f0502.js.map",
+    "453.feba9da3.chunk.js.map": "/React-Ai-Chat/static/js/453.feba9da3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.821c24fd.css",
+    "static/js/main.e51f0502.js"
+  ]
+}
